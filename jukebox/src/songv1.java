@@ -31,6 +31,10 @@ public class songv1 implements Comparable<songv1> {
         return year;
     }
 
+    public String getgenre(){
+        return genre;
+    }
+
     @Override
     public String toString() {
         return title;
