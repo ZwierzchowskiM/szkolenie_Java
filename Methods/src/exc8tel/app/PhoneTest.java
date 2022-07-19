@@ -10,10 +10,14 @@ public class PhoneTest {
         String info = telephone.printInfo();
         System.out.println(info);
         charger.charge(telephone);
-        info = telephone.printInfo();
+         info = telephone.printInfo();
         System.out.println(info);
 
-    }
+
+
+        }
+
+
 
 
 
